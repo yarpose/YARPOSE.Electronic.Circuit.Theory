@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="948.06pt" height="14.76pt" viewBox="0 0 948.06 14.76" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-02-07T22:46:31.285225</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 14.76 
+L 948.06 14.76 
+L 948.06 0 
+L 0 0 
+L 0 14.76 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 4.68 7.38 
+L 40.68 7.38 
+L 76.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 76.68 7.38 
+L 184.68 7.38 
+L 292.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 292.68 7.38 
+L 364.68 7.38 
+L 436.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 436.68 7.38 
+L 508.68 7.38 
+L 580.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 580.68 7.38 
+L 724.68 7.38 
+L 868.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 868.68 7.38 
+L 904.68 7.38 
+L 940.68 7.38 
+" clip-path="url(#p86b571e4cc)" style="fill: none; stroke: #000000; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 76.68 10.08 
+C 77.396048 10.08 78.082866 9.795511 78.589188 9.289188 
+C 79.095511 8.782866 79.38 8.096048 79.38 7.38 
+C 79.38 6.663952 79.095511 5.977134 78.589188 5.470812 
+C 78.082866 4.964489 77.396048 4.68 76.68 4.68 
+C 75.963952 4.68 75.277134 4.964489 74.770812 5.470812 
+C 74.264489 5.977134 73.98 6.663952 73.98 7.38 
+C 73.98 8.096048 74.264489 8.782866 74.770812 9.289188 
+C 75.277134 9.795511 75.963952 10.08 76.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 292.68 10.08 
+C 293.396048 10.08 294.082866 9.795511 294.589188 9.289188 
+C 295.095511 8.782866 295.38 8.096048 295.38 7.38 
+C 295.38 6.663952 295.095511 5.977134 294.589188 5.470812 
+C 294.082866 4.964489 293.396048 4.68 292.68 4.68 
+C 291.963952 4.68 291.277134 4.964489 290.770812 5.470812 
+C 290.264489 5.977134 289.98 6.663952 289.98 7.38 
+C 289.98 8.096048 290.264489 8.782866 290.770812 9.289188 
+C 291.277134 9.795511 291.963952 10.08 292.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 436.68 10.08 
+C 437.396048 10.08 438.082866 9.795511 438.589188 9.289188 
+C 439.095511 8.782866 439.38 8.096048 439.38 7.38 
+C 439.38 6.663952 439.095511 5.977134 438.589188 5.470812 
+C 438.082866 4.964489 437.396048 4.68 436.68 4.68 
+C 435.963952 4.68 435.277134 4.964489 434.770812 5.470812 
+C 434.264489 5.977134 433.98 6.663952 433.98 7.38 
+C 433.98 8.096048 434.264489 8.782866 434.770812 9.289188 
+C 435.277134 9.795511 435.963952 10.08 436.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 580.68 10.08 
+C 581.396048 10.08 582.082866 9.795511 582.589188 9.289188 
+C 583.095511 8.782866 583.38 8.096048 583.38 7.38 
+C 583.38 6.663952 583.095511 5.977134 582.589188 5.470812 
+C 582.082866 4.964489 581.396048 4.68 580.68 4.68 
+C 579.963952 4.68 579.277134 4.964489 578.770812 5.470812 
+C 578.264489 5.977134 577.98 6.663952 577.98 7.38 
+C 577.98 8.096048 578.264489 8.782866 578.770812 9.289188 
+C 579.277134 9.795511 579.963952 10.08 580.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 868.68 10.08 
+C 869.396048 10.08 870.082866 9.795511 870.589188 9.289188 
+C 871.095511 8.782866 871.38 8.096048 871.38 7.38 
+C 871.38 6.663952 871.095511 5.977134 870.589188 5.470812 
+C 870.082866 4.964489 869.396048 4.68 868.68 4.68 
+C 867.963952 4.68 867.277134 4.964489 866.770812 5.470812 
+C 866.264489 5.977134 865.98 6.663952 865.98 7.38 
+C 865.98 8.096048 866.264489 8.782866 866.770812 9.289188 
+C 867.277134 9.795511 867.963952 10.08 868.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 940.68 10.08 
+C 941.396048 10.08 942.082866 9.795511 942.589188 9.289188 
+C 943.095511 8.782866 943.38 8.096048 943.38 7.38 
+C 943.38 6.663952 943.095511 5.977134 942.589188 5.470812 
+C 942.082866 4.964489 941.396048 4.68 940.68 4.68 
+C 939.963952 4.68 939.277134 4.964489 938.770812 5.470812 
+C 938.264489 5.977134 937.98 6.663952 937.98 7.38 
+C 937.98 8.096048 938.264489 8.782866 938.770812 9.289188 
+C 939.277134 9.795511 939.963952 10.08 940.68 10.08 
+z
+" clip-path="url(#p86b571e4cc)" style="stroke: #000000; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p86b571e4cc">
+   <rect x="0" y="0" width="948.06" height="14.76"/>
+  </clipPath>
+ </defs>
+</svg>
